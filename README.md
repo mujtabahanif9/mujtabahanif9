@@ -1,4 +1,4 @@
-# 👨‍💻 Full Stack Web Developer | Ruby on Rails | Laravel | Codeigniter | Yii2 | MySQL | PostgreSQL | MongoDB | AWS | HEROKU | DIGITALOCEAN
+# 👨‍💻 BACKEND DEVELOPER | PHP | Laravel | Codeigniter | MySQL
 
 Hello! I'm **MUJTABA HANIF**, a passionate Full Stack Web Developer with expertise in multiple technologies and frameworks. I have hands-on experience in building web applications using Ruby on Rails, Laravel, Codeigniter, and Yii2. My skill set includes front-end and back-end development with **HTML**, **CSS**, **JavaScript**, and various JavaScript libraries and frameworks.
 
