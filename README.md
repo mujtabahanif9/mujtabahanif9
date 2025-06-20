@@ -1,60 +1,19 @@
-# 👨‍💻 BACKEND DEVELOPER | PHP | Laravel | Codeigniter | MySQL
+<h1 align="center">Hi 👋, I'm Mujtaba Hanif</h1>
+<h3 align="center">A passionate backend developer from Pakistan</h3>
 
-Hello! I'm **MUJTABA HANIF**, a passionate Full Stack Web Developer with expertise in multiple technologies and frameworks. I have hands-on experience in building web applications using PHP, Laravel and Codeigniter. My skill set includes front-end and back-end development with **HTML**, **CSS**, **JavaScript**, and various JavaScript libraries and frameworks.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabahanif9&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabahanif9" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujtabahanif9" alt="mujtabahanif9" /></a> </p>
 
-### 💡 What I Do
+- 📫 How to reach me **mujtabahanif999@gmail.com**
 
-- 🧠 Solve complex problems and deliver high-quality, scalable solutions
-- 🗃️ Design robust database systems using **MySQL**
-- 💼 Deliver client projects by working with Agile teams
-- 🔄 Communicate effectively and meet business objectives
-- 🧱 Build efficient, maintainable, and scalable web apps
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mujtabahanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mujtabahanif" height="30" width="40" /></a>
+<a href="https://fb.com/mujtaba.hanif.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mujtaba.hanif.5" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### 📩 Let's Connect
-
-- 📧 Email: [mujtabahanif999@gmail.com](mailto:mujtabahanif999@gmail.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/mujtabahanif/]
-
----
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mujtabahanif/)
-
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-6DB33F?style=flat-square&logo=php&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujtabahanif9&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabahanif9&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mujtabahanif9&theme=tokyonight&no-frame=true&margin-w=10)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujtabahanif9&show_icons=true&locale=en" alt="mujtabahanif9" /></p>
