@@ -36,3 +36,18 @@ Hello! I'm **MUJTABA HANIF**, a passionate Full Stack Web Developer with experti
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats
+
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujtabahanif9&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabahanif9&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mujtabahanif9&theme=tokyonight&no-frame=true&margin-w=10)
